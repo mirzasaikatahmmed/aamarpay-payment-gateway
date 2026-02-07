@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: .env.example
+  checksum: 350b8fc3030e8af2417d199eb3c56894737bbdeebe983260ad292ea050e0f1bc
+- filename: README.md
+  checksum: c02186b5b6b62f3af80365a174a4ed37cc381d12d84d5dd93a113dafe0aa3cdb
+- filename: pnpm-lock.yaml
+  checksum: db21ca31047c0e7e7f7cc6a75cd01b10072330fc6e4795a424c256f73a21af1f
+- filename: src/common/config/app.config.ts
+  checksum: 47a9b1c0a1b70cbce6f2b06aea330c85d06960fe6d3eae4b46719ca078c4e013
+- filename: src/modules/aamarpay/aamarpay.service.ts
+  checksum: d1e211b338fc2ebcf8a99d296833ee8fc97931cf5aea11f0de40d1c293a443bb
+version: "1.0"
